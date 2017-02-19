@@ -73,3 +73,15 @@ body {
 .site-footer {
   text-align:center;
 }
+
+.Frequent {
+  background-color: #F2D600;
+}
+
+.Infrequent {
+  background-color: #EB5A46;
+}
+
+.Both {
+  background-color: #FFAB4A;
+}
